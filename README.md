@@ -1,4 +1,4 @@
-# messageriarabbitmq
+# messageria rabbitmq
 Desenvolvimento de messageria com Python 3 e Rabbitmq.  
 
 #### Fonte
